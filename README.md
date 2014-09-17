@@ -55,7 +55,7 @@ UI :
 * fontWeight : font weight.
 * bgColor : background color.
 
-Hooks
+Events
 -------
 
     <script>
